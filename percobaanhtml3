@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>GALERI NASIONAL</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align: center;}img{float:left}
+    table,th,td{border: 1px solid blue;border-radius:10px}
+    #DENAHGEDUNG {
+        background:color: lightcoral;color:black;padding: 40px;text-align:center;}
+
+    </style>
+
+</head>
+<body>
+    <h1 style="background-color: rgb(89, 89, 247); font-family: 'Times New Roman', Times, serif; color: aqua;">Galeri Nasional Republik Indonesia</h1>
+<h2 style="color:rgb(8, 8, 8);">Profil Galeri Nasional</h2>
+<img src="galeri.jpeg"width="400"style="margin-right: 10px; border-radius:5 px;">Galeri Nasional Indonesia merupakan salah satu Museum yang berada di Ibu Kota, Jakarta. Tepatnya di Jalan Medan Merdeka Timur No. 14, Gambir, RT.6/RW.1, Gambir, Jakarta Pusat, DKI Jakarta 10110. Tampak dari bagian luar, gedung ini sudah menyajikan nilai estetika. Meskipun kesan museum terbayang agak kuno, namun galeri ini mempunyai daya tarik tersendiri. Bangunan yang didominasi oleh warna putih ini terkesan photogenic dan sentuan historical, 
+hal ini membuat banyak orang ingin mengabadikan momen menarik di museum ini.Sesuai dengan tugas dan fungsinya, GNI melaksanakan pengkajian, pengumpulan, registrasi, perawatan, pengamanan, pameran dan publikasi karya seni rupa berupa lukisan, sketsa, grafis, patung, keramik, desain grafis, ilustrasi, fotografi, seni kriya, seni instalasi, seni media, dan media alternatif lainnya yang dapat dikategorikan sebagai seni rupa modern dan kontemporer. Karya seni yang dikumpulkan dan dirawat GNI berasal atau terkumpul dari Museum Nasional Indonesia; Direktorat Kesenian, Sekretariat Direktorat Jenderal Kebudayaan; dan GNI. Karya-karya tersebut merupakan hasil olah artistik seniman Indonesia dan mancanegara, yang terdiri dalam berbagai ekspresi, bentuk, media, 
+teknik dan latar belakang seniman serta keunggulan karyanya.</p>
+
+<!--block & Inline-->
+<address> Website Galeri Nasional: <a href="https://gni.kemdikbud.go.id/">Galeri Nasional RI</a></address>
+<br>
+<br>
+<hr>
+
+<!--list-->
+<h2><i>Jam Layanan Galeri</i></h2>
+<dl>
+    <dt><b>Senin-Jumat </b> </dt>
+    <dd>10.00 WIB - 16.00 WIB</dd>
+    <dt><b>Sabtu-Minggu </b> </dt>
+    <dd>10.00 WIB - 20.00 WIB</dd>
+</dl>
+<h2><i>Layanan Galeri</i></h2>
+<ol>
+    <li>Layanan Edukasi</li>
+    <li>Layanan Pengajuan Pameran</li>
+</ol>
+
+<h2>3 Contoh Koleksi di Galeri Nasional</h2>
+<ul>
+</ul>
+<hr>
+    <li>Batu Karang yang Teguh - 1977 Henk Ngantung (1921-1991)</li>
+    </li>Tiga Gadis Minahasa - 1949 Henk Ngantung (1921-1991)</li>
+    </li>Gerhana (Dewa Ratih) - 1965 I Gusti Ketut Kobot</li>
+</ul>
+<hr>
+
+<h2>Program Pameran</h2>
+<table>
+    <tr>
+        <th>Program Pameran</th>
+        <th>Penjelasan</th>
+</tr>
+<tr>
+    <td>Pameran Koleksi Galeri Nasional Indonesia Dekade 1970-an</td>
+    <td>Salah satu sudut yang menyajikan Koleksi Dekade 1970-an dalag pameran "Piknik 70-an" di Galeri Nasional Indonesia, Jakarta, Rabu (9/8/2023).</td>
+</tr>
+</table>
+
+
+
+
+</body>
+</html>
