@@ -10,7 +10,7 @@
     <style> h1 {text-align: center;}img{float:left}
     table,th,td{border: 1px solid blue;border-radius:10px}
     #DENAHGEDUNG {
-        background:color: lightcoral;color:black;padding: 40px;text-align:center;}
+        background:color lightcoral;color:black;padding:40px;text-align:center;}
 
     </style>
 

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>PERPUSTAKAAN BANK INDONESIA JAKARTA </title>
+    <link rel="icon" type="image/x-icon" href="IMAGES PERPUSTAKAAN BI/download.png">
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align: center;}img{float:left}
+table,th,td{border: 1px solid rgb(8, 8, 8);border-radius:10px}
+/*Style all elements with the class name "section"*/.section {background-color: rgb(66, 116, 139);color:white;border: 2px solid black;margin: 20px;padding: 20px;}
+#KONDISIRUANG {
+        background-color:rgb(50, 88, 95);color:rgb(250, 242, 242);padding:40px;text-align: center;}
+</style>
+
+</head>
+<body style="background-color:rgb(146, 189, 214);"></body>
+
+    <h1 style="background-color: rgb(101, 101, 179); font-family: 'Times New Roman', Times, serif; color: rgb(213, 200, 238);">Perpustakaan Bank Indonesia Pusat Jakarta</h1>
+<h2 style="color:rgb(8, 8, 8);">Profil Perpustakaan Bank Indonesia</h2>
+<img src="IMAGES PERPUSTAKAAN BI/perpusbi2.JPG"width="400"style="margin-right:10px;border-radius:5 px"><mark style="font-size:20px"></mark><h2> <i>Sejarah Perpustakaan Bank Indonesia</i></h2>
+<p align="justify" style="font: size 20px;">Perpustakaan BI merupakan jenis perpustakaan khusus yang koleksinya menekankan pada bidang ekonomi, moneter, perbankan dan
+sistem pembayaran, serta juga dilengkapi dengan koleksi dalam bidang lain yang dibutuhkan untuk pengembangan SDM Bank Indonesia. Pada
+awalnya perpustakaan BI ini berada di bawah Urusan Ekonomi dan Statistik (URES) bagian laporan dan dokumentasi (LD). Namun kemudian
+pada tahun 1996 terjadi penyempurnaan organisasi. Pada tahun tersebut didirikanlah Perpustakaan Riset dan Perpustakaan Umum. Perpustakaan
+Administrasi (PRAd) yang berada dibawah Direktorat Riset Ekonomi dan Kebijakan Moneter (DKM). Perpustakaan umum bertugas mengelola koleksi dengan kategori
+buku dengan tugas tambahan membina dan membantu pengembangan perpustakaan mini yang berada di KBI (Kantor Bank Indonesia yang
+berada di daerah). Untuk menguatkan landasan hukum maka pada tahun 2003 Bank Indonesia mengeluarkan surat edaran No. 5/46/INTERN
+tanggal 31 Oktober 2003, yang dimaksud dengan Perpustakaan Bank Indonesia adalah Perpustakaan Kantor Pusat yang dikelola oleh satuan
+kerja yang membidangi riset ekonomi dan kebijakan moneter yang berada di Kantor Pusat dan Perpustakaan Kantor Bank Indonesia (KBI) dan
+selanjutnya disebut perpustakaan. Lokasi Perpustakaan Pusat Bank Indonesia pada awalnya terletak di jalan Kebon Sirih dan menempati Kantor Pusat Bank Indonesia Gedung D. Pada zaman sekarang, 
+Perpustakaan Bank Indonesia terdiri dari Perpustakaan Kantor Pusat Bank Indonesia (KPBI) yang berada di bawah pengelolaan BI Institute, serta Perpustakaan Kantor Perwakilan (KPw) Bank Indonesia 
+di seluruh Kantor Perwakilan. Perpustakaan yang tersebar di seluruh wilayah Indonesia menjadi bagian integral dari ekosistem pembelajaran dan riset di era digital. Untuk mewujudkan misi tersebut, 
+Perpustakaan Kantor Pusat maupun KPw telah melakukan berbagai langkah transformasi menuju penerapan <i>Library 4.0</i>. Dengan penerapan Library 4.0, perpustakaan tidak hanya berfungsi sebagai tempat 
+penyimpanan pengetahuan tertulis (explicit knowledge repository) dan tempat menyerap ilmu, namun juga mendorong kolaborasi, knowledge sharing maupun interaksi antar pemustaka, sekaligus menjadi sarana rekreasi pengetahuan bagi pemustaka. 
+Dengan perkembangan pegawai BI yang telah mulai didominasi oleh generasi milenial, Perpustakaan KPBI juga memberikan penekanan pada peningkatan layanan terhadap generasi tersebut, terutama di ranah digital.
+Dalam mewujudkan <i>service excellence</i>, kualitas manajemen layanan Perpustakaan KPBI telah menggunakan standar internasional dengan perolehan sertifikasi ISO 9001:2015. Sebagian besar Perpustakaan KPw telah diberikan akreditasi A dan B oleh Perpustakaan Nasional Republik Indonesia.
+Perpustakaan Umum dan Perpustakaan Riset berlokasi di Kantor Pusat Bank Indonesia, Menara Sjafruddin Prawiranegara Lt. 2, Jl. MH Thamrin 2, Jakarta Pusat. Area perpustakaan merupakan salah satu area publik Bank Indonesia yang dapat diakses oleh masyarakat umum.
+Dengan luas masing-masing 500m<sup>2</sup> untuk Perpustakaan Umum dan 700m<sup>2</sup> untuk Perpustakaan Riset, pengunjung dapat memanfaatkan berbagai fasilitas dengan konsep desain interior <i>co-working space</i> yang sesuai dengan kebutuhan generasi milenial.</p>
+<address> Website Perpustakaan Bank Indonesia: <a href="https://www.bi.go.id/id/layanan/perpustakaan/default.aspx#"> Perpustakaan Bank Indonesia</a></address>
+<br>
+<h2><i>Visi, Misi, Tujuan dan Fungsi Perpustakaan Bank Indonesia</i></h2>
+<dl>
+    <dt><b>1. Visi</b> </dt>
+    <dd>Mendukung kebijakan Bank Indonesia yang efektif dan meningkatkan
+        kualitas sumber daya manusia melalui pengelolaan perpustakaan yang
+        professional, kelengkapan koleksi perpustakaan sesuai kebutuhan riset dan
+        pelayanan prima.
+        </dd>
+    <dt><b>2. Misi</b> </dt>
+    <dd>Mengelola referensi dan literature untuk kegiatan riset dan penelitian
+        dalam mendukung pelaksanaan tugas Bank Indonesia di bidang moneter,
+        perbankan, dan sistem pembayaran serta bidang lain terkait peningkatan
+        kompetensi sumber daya manusia.</dd>
+        <dt><b>3. Tujuan dan Fungsi</b> </dt> 
+        <dd>a. Untuk mendukung kelancaran tugas Bank Indonesia sebagai bank
+            sentral dengan menyediakan bahan-bahan bacaan dan informasi baik
+            berbentuk buku maupun terbitan berkala, yang berkaitan dengan tugas Bank Indonesia, yaitu dibidang moneter, 
+            perbankan dan sistem pembayaran serta sekaligus ikut serta meningkatkan kualitas sumber daya manusia Bank Indonesia.</dd>
+            <dd>b. Sebagai Pembina Perpustakaan Kantor-kantor Bank Indonesia.</dd> </dl>
+            <hr>
+<h2>Jam Layanan Perpustakaan Bank Indonesia</h2>
+<dl>
+    <dt><b>Senin-Jumat </b> </dt>
+    <dd>Senin-Jumat, 07.15 WIB- 17.00 WIB</dd>
+    <dt><b>Sabtu-Minggu/Libur Nasional</b> </dt>
+    <dd>Tutup</dd></dl>
+
+    <h2>Layanan di Perpustakaan Bank Indonesia</h2>
+    <p align="justify">Perpustakaan Bank Indonesia telah memfasilitasi layanan yang disesuaikan dengan kebutuhan para pemustaka utama yaitu para pegawai Bank Indonesia. Diharapkan layanan yang ditawarkan dapat 
+    dimanfaatkan secara baik oleh para pemustaka. Adapun layanan di Perpustakaan ini adalah sebagai berikut: </p>
+    <ol>
+        <li>Layanan sirkulasi dan reservasi koleksi</li>
+        <li>Layanan loker</li>
+        <li>Layanan ruang baca</li>
+        <li>Layanan multimedia</li>
+        <li>Layanan referensi</li>
+        <li>Layanan perpustakaan digital</li>
+        <li>Layanan fotocopy</li>
+        <li>Layanan anak</li>
+        <li>Layanan Coffee Area</li> </ol>
+        <br>
+        <hr>
+    <h2>Koleksi yang terdapat di Perpustakaan Bank Indonesia</h2>
+    <p align="justify">Perpustakaan Bank Indonesia menyediakan koleksi pengetahuan khususnya di bidang moneter, makroprudensial, stabilitas sistem keuangan, sistem pembayaran, pengelolaan Rupiah, ekonomi digital, hukum, manajemen, dan bidang lain guna meningkatkan kualitas diri sekaligus mendukung pekerjaan, penelitian, dan pendidikan. Selain subjek koleksi tersebut, Perpustakaan BI juga menunjang kebutuhan bacaan lainnya dengan beragam subjek 
+        koleksi pelengkap antara lain koleksi bahasa, TOEFL, IELTS, komputer, psikologi, agama, hobi, entrepreneur, fiksi, non-fiksi, dan sebagainya. Berikut adalah jenis koleksi yang tersedia : </p>
+        <ul>
+            <li>Buku teks</li>
+            <li>Buku referensi</li>
+            <li>jurnal</li>
+            <li>koran dan majalah</li>
+            <li>Audio visual</li>
+            <li><i>E-book</i></li>
+            <li><i>E-journal</i></li>
+        </ul>
+        <h2>Koleksi <i>Online</i> di Perpustakaan Bank Indonesia</h2>
+        <p align="justify">Guna meningkatkan layanan prima serta mendukung kebutuhan informasi terkait bidang Moneter, Stabilitas Sistem Keuangan, Sistem Pembayaran, Manajemen, Hukum, dan bidang lainnya, dengan ini Perpustakaan Bank Indonesia menyediakan layanan <i>e-resources</i> berupa penyediaan jurnal online, buku online, database online, dan berita online yang dapat diakses secara gratis dengan berkunjung langsung ke Perpustakaan 
+            Bank Indonesia yang terletak di kantor pusat (Jakarta) maupun di 44 Kantor Perwakilan Bank Indonesia. Adapun daftar koleksi online yang dimiliki oleh Perpustakaan Bank Indonesia sebagai berikut:</p>
+<table>
+    <tr>
+        <th>Layanan <i>e-resources</i></th>
+        <th>Macam-Macam Namanya</th>
+</tr>
+<tr>
+    <td><i>E-Journal</i></td>
+    <td>SCOPUS, ScienceDirect, JSTOR, Proquest, Emerald, Payment Strategy & Systems, Personnel Psychology, Islamic Monetary Economics & Finance, Bulletin of Indonesian Economic Studies, Bulletin of Economic Monetary & Banking, IMF, BMI Research, EPFR Global, Orbis Bank, Hukum Online, Gartner, Forrester, ISACA, The Economist, Financial Times, Islamic Finance News, Harvard Business Review,
+         Asia Wall Street Journal, DotSolution Media Monitoring.</td>
+   </tr>      
+ <tr>
+         <td><i>Database Online</i></td>   
+         <td>IMF, BMI Research, EPFR Global, Orbis Bank, Hukum Online, Gartner, Forrester, ISACA.</td> 
+        </tr>
+        <tr>
+         <td>Majalah & Berita <i>Online</i></td>
+         <td>The Economist, Financial Times, Islamic Finance News, Harvard Business Review, Asia Wall Street Journal, DotSolution Media Monitoring.</td>
+</tr>
+</table>
+<h2 id="KONDISIRUANG">KONDISI RUANG</h2>
+<div class="section">
+    <h2>Kondisi Ruang Secara Umum</h2>
+    <p style="font-size: large;"> Perpustakaan Bank Indonesia menempati Gedung B
+        Sjafrudin Prawiranegara di lantai 2 (dua), dari kompleks gedung
+        perkantoran Bank Indonesia. Dilihat dari sisi ruang, Perpustakaan Bank
+        Indonesia dibagi menjadi dua yaitu ruang perpustakaan umum dan
+        perpustakaan riset. Perpustakaan umum menempati ruangan yang cukup
+        luas ditambah ruangan audiovisual yang letaknya terpisah dan
+        bersebrangan dengan perpustakaan. Kondisi ruang perpustakaan Bank
+        Indonesia nampak layaknya sebuah perpustakaan pada umumnya. 
+        Didalamnya terdapat meja sirkulasi, meja dan kursi baca, rak-rak berisi buku, serta beberapa
+        unit komputer. Dibawah ini dijelaskan mengenai fungsi ruang-ruang yang ada di perpustakaan umum Bank Indonesia. </p> </div>       
+<div class="section">
+<h2>1. Ruang Audio Visual</h2>
+<p style="font-size: large;">Ruang audio visual adalah ruang yang dilengkapi dengan berbagai
+    macam perangkat pendukung untuk memvisualisasikan dengan
+    teknologi yang tepat dan efektif. Di dalam ruangan ini terdapat
+    seperangkat in-focus, sound system yang mumpuni, kursi-kursi yang
+    tertata secara baik, seperti layaknya menonton film di bioskop mini,
+    dan untuk memantau aktivitasnya terdapat pula ruang untuk
+    operator.</p> </div>
+    <div class="section">
+        <h2>2. Ruang Baca</h2>
+        <p style="font-size: large;">Fasilitas ruang membaca yang disediakan oleh perpustakaan bagi
+            seluruh pengguna, di perpustakaan umum Bank Indonesia memiliki
+            sedikit perbedaan, yaitu dipisahkannya ruang baca untuk pengguna
+            dewasa dengan anak-anak. Antara pengguna dewasa dan anak-anak
+            memiliki ruang masing-masing yang dapat digunakan sebagai ruang
+            membaca koleksi.</p> </div>
+            <div class="section">
+                <h2>3. Ruang Koleksi</h2>
+                <p style="font-size: large;">Ruang yang tersedia di perpustakaan sebagai tempat tersimpannya
+                    koleksi-koleksi yang dimiliki perpustakaan, baik itu koleksi referensi
+                    atau koleksi sirkulasi.</p> </div>
+                    <div class="section">
+                        <h2>4. Ruang Staf dan Pustakawan</h2>
+                        <p style="font-size: large;">Ruang dimana staf dan pustakawan melakukan tugas dan
+                            aktivitasnya sehari-hari di dalam perpustakaan. </p> </div>
+                            <div class="section">
+                            <h2>5. Ruang Layanan Anak</h2>
+                            <p style="font-size: large;">Layanan anak di Perpustakaan BI memiliki ruangan terpisah di lantai dua. Tempat untuk layanan anak ditata dengan semenarik mungkin untuk menjadikan anak-anak merasa senang dan nyaman meluangkan waktunya di ruangan tersebut. 
+                                Fasilitas yang terdapat dalam layanan didalamnya terdiri dari: rak buku, bacaan anak-anak, karpet yang bergambar, tirai yang berbentuk kartun, meja-meja kecil, globe, permainan untuk anak seperti lego dan puzzle, jam dinding, vas bunga, keranjang tempat untuk menyimpan permainan anak.</p> </div>
+                                <hr>
+                                <h2>LIBRARY TOUR</h2>
+                                <p style="font-size: large;">Kunjungi room tour 360<sup>o</sup> Perpustakaan Bank Indonesia Pusat<a href="https://perpustakaan-bi.org/pages/perpusbi-360"> Klik di sini </a> </p>
+                                <p style="font-size: large;">Adapun video mengenai room tour Perpustakaaan Bank Indonesia Pusat </p>
+                                <iframe width="560" height="315" src="https://youtube.com/embed/zgzwKSGWZJs?si=7_E2-TSSNhmmvvOR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+                                gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+                                 <hr>
+<h2>KRITIK dan SARAN</h2>
+
+<form>
+  <label for="fname" style="font-size: large;">Nama:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="nim" style="font-size: large;">Nomor Pegawai:</label><br>
+  <input type="numeric" id="nomor pegawai" name="nomor pegawai"><br>
+  <label for="kritiksaran" style="font-size: large;">Kritik/Saran</label><br>
+  <input type="text" id="kritiksaran" name="kritiksaran"><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
+
+            
+
+
+
