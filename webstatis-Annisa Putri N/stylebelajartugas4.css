@@ -1,0 +1,112 @@
+* {
+margin:0;
+padding:0;
+}
+
+img {
+    width:100%;
+    image-resolution:100%;   
+}
+body {
+    /*background-color:black*/
+    background-image: url(IMAGES\ MUSEUM\ BI/museumbi2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color:rgb(255, 252, 72);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 6px 8px; 
+    border-style: groove;
+    text-align:center;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+    margin: 40px 30px;
+}
+
+h2 {
+    color: rgb(255, 230, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-style: dotted;
+    border-width: 10px;
+    border-color:brown}
+
+    p {
+        color:whitesmoke;
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align:justify;
+        line-height: 30px;
+        padding: 20px;
+        width: 1100px;
+        margin: 30px auto;
+    }
+    
+    ol{ 
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: whitesmoke;
+        font-size: 20px;
+        text-align: justify;
+        width: 1100px;
+        padding: 30px;
+        margin:auto;}
+        
+
+
+    d1{
+        line-height: 30px;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(243, 209, 159);
+        margin-top: auto;
+        padding: 5px;
+    }
+    dt{
+        color: aliceblue;
+        font-family: 'Lucida Sans';
+        background-color: rgb(82, 146, 135);
+        margin-top: 30px;
+        padding: 5px;
+    }
+    dd {
+        font-family: monospace;
+        background-color:beige; 
+        width: 100%;
+        height: 100%;
+        text-indent: 40px;
+        text-align: justify;
+        font-size: 18px;
+        line-height: 30px;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    a {
+        text-decoration: underline;
+        color: rgb(53, 72, 126);
+        text-transform: capitalize;
+        line-height: 30px;
+        padding: 20px;
+    }
+    .Koleksi {
+        width: 900px;
+        margin: 30px auto;
+    }
+    
+    d1 img{
+        width:200px;
+        float:left;
+        /*margin-top: 10px;
+        margin-right: 20px;*/
+        margin: 10px 20px 10px 0px;
+        padding: 10px;
+        background-color: rgb(175, 175, 38);
+        /*border-top-left-radius: 50px;*/
+        border-radius:100px;}
+    
+    .clear {clear: left;}
+.footer{
+    margin-left: 100px;
+}
