@@ -3,10 +3,9 @@ margin:0;
 padding:0;
 }
 
-img {
-    width:100%;
-    image-resolution:100%;   
-}
+img {img {width: 75%; height: auto;image-resolution: 100%; margin-left: 210px;
+     }
+     
 body {
     /*background-color:black*/
     background-image: url(IMAGES\ MUSEUM\ BI/museumbi2.jpg);
